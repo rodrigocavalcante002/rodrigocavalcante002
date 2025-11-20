@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Olá%2C+eu+sou+Rodrigo!;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 <br>
 
-<img src="https://i.pinimg.com/originals/c1/bc/3d/c1bc3d6ba8b7a7c9ff037660e2e4f2c2.gif" width = 450 style="border: 1px solid cyan; border-radius:5px" alt="img decoretion">
+<img src="https://i.pinimg.com/originals/e3/89/09/e389094f9b358739d8d954304beeeb73.gif" width = 450 style="border: 2px solid cyan; border-radius:5px" alt="img decoretion">
 
 <hr>
 
