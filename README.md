@@ -19,7 +19,7 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:rodrigocavalcantedossantos355@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_cavalcante_s?igsh=MTU0cWF3Y21zdTloeA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cavalcante-dos-santos-6b7a56371/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:rodrigocavalcantedossantos355@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_cavalcante_s?igsh=MTU0cWF3Y21zdTloeA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cavalcante-dos-santos-6b7a56371/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-)](https://wa.me/5573981379767?text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub)
 
