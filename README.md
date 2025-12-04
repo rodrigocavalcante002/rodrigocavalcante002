@@ -27,9 +27,6 @@
 
 <br>
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocavalcante002&show_icons=true&bg_color=0000&text_color=19AAAF&border_color=00FFFF)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocavalcante002&layout=donut&bg_color=0000&text_color=19AAAF&border_color=00FFFF)](https://github.com/rodrigocavalcante002/github-readme-stats)
 
 </div>
