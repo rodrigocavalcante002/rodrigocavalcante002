@@ -9,9 +9,9 @@
 
 <hr>
 
-## **back-end developer 👨‍💻**
+## **Estudante 👨‍💻**
 
-#### Olá, me chamo rodrigo, desenvolvedor backend.
+#### Olá, me chamo rodrigo, estudante apaixonado por tecnologia e estou sempre explorando diferentes áreas.
 #### Atualmente curso ADS, a área tech é uma das minhas grandes paixões.
 #### Neste GitHub você poderá encontrar alguns de meus projetos e exercícios
 
